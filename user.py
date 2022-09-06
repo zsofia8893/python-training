@@ -1,6 +1,7 @@
+#Felhasználói bevitelt tartalmazó feladatok
 #input függvény
 #paraméter: mit kell kiírni
-#visszatérési érték: felhasználó által beírt érték
+#visszatérési érték: felhasználó által begépelt érték
 
 name = input("Mi a neved?")
 
