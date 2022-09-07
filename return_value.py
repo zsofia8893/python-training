@@ -93,8 +93,8 @@ print(is_even(6))
 print(is_even_simple(8))
 
 if is_even(5):
-    print("Ez egy páros szám")
-else:
     print("Ez egy páros szám!")
+else:
+    print("Ez egy páratlan szám!")
 
-print(is_even(5))
+print(is_even(8))
